@@ -138,8 +138,8 @@ body {
     border-radius: 40%;
     background-color: rgba(0, 0, 0, .1);
     top: 50%;
-    -ms-transform: translateY(-100%);
-    transform: translateY(-100%);
+    -ms-transform: translateY(-400%);
+    transform: translateY(-400%);
     
 }
 
@@ -153,10 +153,10 @@ body {
     outline: 1px solid black
 }
 .carousel-button.prev{
-    left: 1rem;
+    left: -4rem;
 }
 .carousel-button.next{
-    right: 1rem;
+    right: -4rem;
 }
 
 .carousel {
